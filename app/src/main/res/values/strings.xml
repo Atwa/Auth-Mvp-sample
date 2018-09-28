@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Taxi Neum</string>
+
+    <!--App Message-->
+    <string name="api_retry_error">Please retry!</string>
+    <string name="api_default_error">Something wrong happened!</string>
+    <string name="some_error">Some Error Occurred!</string>
+    <string name="connection_error">Internet connection lost!</string>
+
+    <!--Login-->
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <!--Validation-->
+    <string name="empty_name">Please provide a non empty name.</string>
+    <string name="invalid_name">Please provide a non empty name.</string>
+    <string name="empty_email">Please provide a non empty email.</string>
+    <string name="invalid_email">Please provide a valid email.</string>
+    <string name="empty_phone">Please provide a non empty phone.</string>
+    <string name="invalid_phone">Please provide a non empty phone.</string>
+    <string name="empty_password">Please provide a non empty password.</string>
+    <string name="invalid_password">Please provide a non empty password.</string>
+    <string name="invalid_visa">Visa is optional please provide a valid visa or leve it empty.</string>
+
+</resources>
